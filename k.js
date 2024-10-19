@@ -1,6 +1,7 @@
 
 
 let t =()=>{
+    console.log("hello")
     return 34
 }
 
